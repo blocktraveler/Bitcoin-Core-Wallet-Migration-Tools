@@ -19,7 +19,7 @@
 
   On-chain archive:
   -----------------
-  https://namecoin.online/explorer/details.php?q=nft%2FNamecoin_Core_wallet_migration.zip
+  [https://namecoin.online/explorer/details.php?q=nft%2FBitcoin_Core_wallet_migration.zip](nft/Bitcoin_Core_wallet_migration.zip)
 
   Included Scripts:
   -----------------
