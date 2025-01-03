@@ -19,7 +19,7 @@
 
   Included Scripts:
   -----------------
-  1. Dump_privkeys.bat  - Export private keys of names and UTXOs.
+  1. Dump_privkeys.bat  - Export private keys of UTXOs.
   2. Import_descriptors.bat  - Import private keys into descriptor wallets.
 
 ===========================================================================
