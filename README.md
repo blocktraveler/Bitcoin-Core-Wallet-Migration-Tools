@@ -17,6 +17,10 @@
 
       C:\Program Files\Bitcoin\daemon
 
+  On-chain archive:
+  -----------------
+  https://namecoin.online/explorer/details.php?q=nft%2FNamecoin_Core_wallet_migration.zip
+
   Included Scripts:
   -----------------
   1. Dump_privkeys.bat  - Export private keys of UTXOs.
