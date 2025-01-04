@@ -1,4 +1,4 @@
-﻿ ##################################################################################
+ ##################################################################################
  ##                                                                              ##
  ##                     Bitcoin Core Wallet Migration Tools                      ##
  ##                                                                              ##
@@ -20,7 +20,7 @@
 
   Included Scripts:
   -----------------
-  1. Dump_privkeys.bat  - Export private keys of names and UTXOs.
+  1. Dump_privkeys.bat  - Export private keys of UTXOs.
   2. Import_descriptors.bat  - Import private keys into descriptor wallets.
 
 ====================================================================================
@@ -48,7 +48,7 @@
 
   Output:
   -------
-  - Private keys for names and UTXOs will be stored line by line in the 'privkeys.txt'. 
+  - Private keys will be stored line by line in the 'privkeys.txt'. 
   - Rename or backup previous 'privkeys.txt' files.
 
 ====================================================================================
