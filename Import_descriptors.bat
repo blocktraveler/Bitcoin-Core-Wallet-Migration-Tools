@@ -14,7 +14,7 @@
 :: ---------------------
 :: 1. Bech32/SegWit Single-Key Private Keys:
 ::	- Use the default descriptor 'wpkh(%%k)' (Witness Public Key Hash) for importing 
-::	  single-key Bech32/SegWit addresses (starting with 'nc1...').
+::	  single-key Bech32/SegWit addresses (starting with 'bc1...').
 
 :: 2. Base58Check Legacy Single-Key Private Keys:
 ::	- For private keys from single-key legacy addresses (Base58Check encoded), 
