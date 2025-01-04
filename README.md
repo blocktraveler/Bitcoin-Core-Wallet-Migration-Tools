@@ -5,11 +5,11 @@
  #            Website: www.namecoin.pro | Web3 ID: https://dotbit.app
 
 
-===========================================================================
+---
 
-  Overview
+##  Overview
   
-===========================================================================
+---
 
   These wallet migration tools for Windows DOS Batch facilitate the migration of 
   private keys from legacy Berkeley DB (BDB) wallets to modern descriptor wallets 
@@ -26,11 +26,11 @@
   1. Dump_privkeys.bat  - Export private keys of UTXOs.
   2. Import_descriptors.bat  - Import private keys into descriptor wallets.
 
-===========================================================================
+---
 
-  Dump_privkeys.bat
+##  Dump_privkeys.bat
   
-===========================================================================
+---
 
   This Windows batch script automates the extraction of private keys for
   unspent Transaction Outputs (UTXOs) using the 'listunspent' RPC command.
@@ -54,11 +54,11 @@
   - Private keys for names and UTXOs will be stored line by line in the 'privkeys.txt'. 
   - Rename or backup previous 'privkeys.txt' files.
 
-===========================================================================
+---
 
-  Import_descriptors.bat
+##  Import_descriptors.bat
   
-===========================================================================
+---
 
   This Windows batch script automates the process of importing private keys from 
   legacy Berkeley DB (BDB) wallets in Bitcoin Core (stored line by line in the 
@@ -89,17 +89,17 @@
   - For multi-signature addresses (both legacy and Bech32), modifications to the 
     script are required.
 
-===========================================================================
+---
 
   IMPORTANT: Handle all private keys and descriptors with caution! Mishandling them 
   may result in the loss of funds or assets. Use these tools responsibly.
   
-===========================================================================
+---
 
   DISCLAIMER: These scripts are provided "as is" without warranty of any kind,
   either expressed or implied. The author disclaims any responsibility or liability
   for any loss of funds, assets or data, or for any damage resulting
   from its use or misuse!
   
-===========================================================================
+---
 
