@@ -2,7 +2,7 @@
 
  #                      Bitcoin Core Wallet Migration Tools
 
- #            Website: www.namecoin.pro | Web3 ID: https://dotbit.app
+ ##            Website: www.namecoin.pro | Web3 ID: https://dotbit.app
 
 
 ---
