@@ -4,7 +4,7 @@
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:: Batch Script for Exporting Private Keys of Names and UTXOs from Legacy BDB Wallets in Bitcoin Core
+:: Batch Script for Exporting Private Keys of UTXOs from Legacy BDB Wallets in Bitcoin Core
 :: ----------------------------------------------------------------------------------------------------
 :: This Windows batch script automates the extraction of private keys for
 :: unspent Transaction Outputs (UTXOs) using the 'listunspent' RPC command.
@@ -24,7 +24,7 @@
 ::
 :: Output:
 :: -------
-:: - Private keys for names and UTXOs will be stored line by line in the 'privkeys.txt'.
+:: - Private keys will be stored line by line in the 'privkeys.txt'.
 :: - Rename or backup previous 'privkeys.txt' files.
 
 :: DISCLAIMER:
